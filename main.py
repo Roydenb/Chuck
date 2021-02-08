@@ -15,3 +15,5 @@ def get_chuck_norris_jokes():
 
 
 
+if __name__ == '__main__':
+    app.run()
