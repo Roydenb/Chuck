@@ -13,7 +13,5 @@ def get_chuck_norris_jokes():
 
     return "<strong>Random joke from chuck norris: </strong>" + response['value'] +img
 
-
-
-if __name__ == '__main__':
-    app.run()
+# if __name__ == '__main__':
+#     app.run()
